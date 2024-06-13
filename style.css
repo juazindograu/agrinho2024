@@ -1,0 +1,19 @@
+body{
+
+background-color: black;
+
+
+header{
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+     padding: 20px;
+}
+    
+    cabecalho_imagem{
+        width: 200px;
+        height: 200px
+   
+    border-radius: 50%;
+
+}

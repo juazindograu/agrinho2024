@@ -1,1 +1,26 @@
-# agrinho2024
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Agrinho 2024</title>
+</head>
+
+<body>
+
+    <header class="cabecalho">
+        <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="cabecalho_imagem">
+        <nav class="cabecalho_menu">
+            <ul class="cabecalho_menulista">
+                <li class="cabecalho_menuitem">Pagina 1</li>
+                <li class="cabecalho_menuitem">Pagina 2</li>
+                <li class="cabecalho_menuitem">Pagina 3</li>
+            </ul>
+
+        </nav>
+    </header>
+    <main class="principal">
+
