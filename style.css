@@ -5,15 +5,13 @@ background-color: black;
 
 header{
     display: flex;
-    background-color: blue;
+    background-color: rgb(85, 85, 194);
     justify-content: space-around;
      padding: 20px;
 }
     
-    cabecalho_imagem{
+    .cabecalho_imagem{
         width: 200px;
         height: 200px
-   
-    border-radius: 50%;
-
-}
+        border-radius: 50%;
+    }
